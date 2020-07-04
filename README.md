@@ -1,6 +1,6 @@
 # Solidity Smart Contracts
 
-[Profile.sol](https://github.com/luc1dLife/SmartContracts/blob/master/Profile.sol) [waviii.io user profile storage contract]
+[Profile.sol](https://github.com/luc1dLife/SmartContracts/blob/master/Profile.sol) [waviii user profile storage contract]
 
     pragma solidity ^0.5.0;
 
@@ -88,7 +88,7 @@
     }
 
 
-[wavSwap.sol](https://github.com/luc1dLife/SmartContracts/blob/master/WavSwap.sol) [waviii.io wavSwap contract]
+[wavSwap.sol](https://github.com/luc1dLife/SmartContracts/blob/master/WavSwap.sol) [waviii wavSwap contract]
 
     pragma solidity ^0.5.0;
 
