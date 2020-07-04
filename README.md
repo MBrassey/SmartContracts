@@ -1,6 +1,6 @@
 # Solidity Smart Contracts
 
-[Profile.sol](https://github.com/luc1dLife/SmartContracts/blob/master/Profile_0.5.0.sol) [waviii.io user profile storage contract]
+[Profile.sol](https://github.com/luc1dLife/SmartContracts/blob/master/Profile.sol) [waviii.io user profile storage contract]
 
     pragma solidity ^0.5.0;
 
