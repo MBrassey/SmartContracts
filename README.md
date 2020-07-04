@@ -33,7 +33,7 @@
     }}
 
 <br />
-[wavSwap.sol](https://github.com/luc1dLife/SmartContracts/blob/master/Profile.sol) [waviii.io wavSwap contract]
+[wavSwap.sol](https://github.com/luc1dLife/SmartContracts/blob/master/WavSwap.sol) [waviii.io wavSwap contract]
 
     pragma solidity ^0.5.0;
 
