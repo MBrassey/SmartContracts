@@ -33,7 +33,7 @@
     }}
 
 ---
-[waviii.sol](https://github.com/luc1dLife/SmartContracts/blob/master/waviii.sol) [waviii token contract]
+[waviii.sol](https://github.com/luc1dLife/SmartContracts/blob/master/waviii.sol) [waviii ERC-20 token contract]
 
     pragma solidity ^0.5.0;
 
