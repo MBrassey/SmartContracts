@@ -88,6 +88,29 @@
     }
 
 ---
+[waviii_OZ.sol](https://github.com/luc1dLife/SmartContracts/blob/master/waviii.sol) [waviii ERC-20 token contract with Openzeppelin]
+
+    pragma solidity ^0.5.0;
+
+    import "@openzeppelin/contracts/token/ERC20/ERC20Mintable.sol";
+
+    contract waviii is ERC20Mintable {
+      string  public name;
+      string  public symbol;
+      uint256 public decimals;
+      string  public standard;
+      string  public statement;
+
+      constructor() public {
+        name = "waviii Token";
+        symbol = "waviii";
+        decimals = 18;
+        standard = "waviii Token v1.0";
+        statement = "Be waviii.";
+      }
+    }
+
+---
 [wavSwap.sol](https://github.com/luc1dLife/SmartContracts/blob/master/WavSwap.sol) [waviii wavSwap contract]
 
     pragma solidity ^0.5.0;
