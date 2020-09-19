@@ -1,6 +1,8 @@
 # Solidity Smart Contracts
 
-[Profile.sol](https://github.com/luc1dLife/SmartContracts/blob/master/Profile.sol) [waviii user profile storage contract]
+> Smart contracts from varios decentralized applications I've made.
+
+[Profile.sol](./Profile.sol) [waviii user profile storage contract]
 
     pragma solidity ^0.5.0;
 
@@ -33,7 +35,7 @@
     }}
 
 ---
-[waviii.sol](https://github.com/luc1dLife/SmartContracts/blob/master/waviii.sol) [waviii ERC-20 token contract]
+[waviii.sol](./waviii.sol) [waviii ERC-20 token contract]
 
     pragma solidity ^0.5.0;
 
@@ -88,7 +90,7 @@
     }
 
 ---
-[waviii_OZ.sol](https://github.com/luc1dLife/SmartContracts/blob/master/waviii_OZ.sol) [waviii ERC-20 token contract with Openzeppelin]
+[waviii_OZ.sol](./waviii_OZ.sol) [waviii ERC-20 token contract with Openzeppelin]
 
     pragma solidity ^0.5.0;
 
@@ -111,7 +113,7 @@
     }
 
 ---
-[wavSwap.sol](https://github.com/luc1dLife/SmartContracts/blob/master/WavSwap.sol) [waviii wavSwap contract]
+[wavSwap.sol](./WavSwap.sol) [waviii wavSwap contract]
 
     pragma solidity ^0.5.0;
 
