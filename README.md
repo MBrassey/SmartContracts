@@ -1,6 +1,6 @@
 # Solidity Smart Contracts
 
-> Smart contracts from varios decentralized applications I've made.
+> Smart contracts from various decentralized applications I've made.
 
 [Profile.sol](./Profile.sol) [waviii user profile storage contract]
 
